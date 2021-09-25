@@ -1,4 +1,5 @@
-king2000.blohspot.com has been started for ...
+king2000.blohspot.com
+..
 
 <!---
 kazigh/kazigh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
